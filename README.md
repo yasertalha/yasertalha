@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yasertalha
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning sql, postgresql, sequelize .....so on
-- 💞️ I’m looking to collaborate on PERN / MERN stack developement
+- 🌱 I’m currently learning solidity, smart contracts, Truffle .....so on
+- 💞️ I’m looking to collaborate on dApp application developement
 - 📫 How to reach me - y4yasertalha@gmail.com
 
 <!---
