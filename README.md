@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasertalha
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning solidity, smart contracts, ether.js, hardhat .....so on
+- 🌱 I’m currently advancing solidity, smart contracts, ether.js, hardhat .....so on
 - 💞️ I’m looking to collaborate on dApp application developement
 - 📫 How to reach me - y4yasertalha@gmail.com
 
