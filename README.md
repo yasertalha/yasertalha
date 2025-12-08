@@ -1,5 +1,5 @@
 ## 🚀 Hello 👋  I'm Yaser
-I am a fullstack developer from India 🇮🇳 I am working as a Senior Product Engineer at LTIMindtree for fosfor.com
+I am a fullstack developer from India 🇮🇳 I am working as a Senior Product Engineer @ HCL for WesterUnion.com and X employee of LTIMindtree for fosfor.com
 
 ## 🛠 Skills
 Currently I am working with ...
