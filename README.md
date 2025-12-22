@@ -1,19 +1,28 @@
-## 🚀 Hello 👋  I'm Yaser
-I am a fullstack developer from India 🇮🇳 I am working as a Senior Product Engineer @ HCL for WesterUnion.com and X employee of LTIMindtree for fosfor.com
+## 🚀 Hello 👋 I'm Yaser
+
+🔗 **Resume:** [View Latest Resume](https://drive.google.com/file/d/1vrNFhEVWn68X7jJ12gpUKIDkyVIpi9gd/view?usp=drive_link)
+
+I am a Full Stack Developer from India 🇮🇳  
+Currently working as a **Senior Product Engineer @ HCL** on **WesternUnion.com**  
+Former employee of **LTIMindtree**, worked on **fosfor.com**
+
+---
 
 ## 🛠 Skills
-Currently I am working with ...
 
-Node.js   ReactJS   TypeScript   JavaScript   Mysql   Mongo   Git   GitHub  
+**Currently working with:**
 
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently advancing solidity, smart contracts, ether.js, hardhat .....so on
-- 💞️ I’m looking to collaborate on dApp application developement
-- 📫 How to reach me - y4yasertalha@gmail.com
+- Node.js  
+- React.js  
+- TypeScript  
+- JavaScript  
+- MySQL  
+- MongoDB  
+- Git & GitHub  
 
-https://drive.google.com/file/d/1vrNFhEVWn68X7jJ12gpUKIDkyVIpi9gd/view?usp=drive_link
+---
 
-<!---
-yasertalha/yasertalha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 Interested in **Blockchain**
+- 🌱 Currently advancing **Solidity, Smart Contracts, Ethers.js, Hardhat**
+- 💞️ Looking to collaborate on **dApp development**
+- 📫 Reach me at **y4yasertalha@gmail.com**
